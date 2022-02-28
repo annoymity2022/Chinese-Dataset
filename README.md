@@ -1,7 +1,5 @@
 # CMMD:A Chinese Multi-modal Multi-Task Dataset for Sentiment, Emotion, Sarcasm and Humor Analysis in Conversations
 We hope that this dataset counld benchmark Chinese sentiment, emotion, sarcasm and humor analysis and benefit further studies.
-# About the dataset
-To be awaited..
 # Our work
 To be awaited.. 
 
