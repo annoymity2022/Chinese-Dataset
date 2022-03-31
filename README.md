@@ -1,4 +1,4 @@
-# CMMD:A Chinese Multi-modal Multi-Task Dataset for Sentiment, Emotion, Sarcasm and Humor Analysis in Conversations
+# CMMA:A Chinese Multi-modal Multi-Task Dataset for Sentiment, Emotion, Sarcasm and Humor Analysis in Conversations
 We hope that this dataset counld benchmark Chinese sentiment, emotion, sarcasm and humor analysis and benefit further studies.
 # Our work
 To be awaited.. 
