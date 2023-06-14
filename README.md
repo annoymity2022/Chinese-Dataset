@@ -2,4 +2,4 @@
 We hope that this dataset counld benchmark Chinese sentiment, emotion, sarcasm and humor analysis and benefit further studies.
 # Our work
 
-The visual and audio dataset will be released upon acceptance of the paper
+The visual and audio dataset will be released on https://drive.google.com/drive/folders/1p-rGUR8Fb4EvXZvzO8K-TTyKnTYfbOZT?usp=sharing
